@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seminar-Management-System</string>
+    <string name="app_logo">Logo</string>
+    <string name="password">PASSWORD</string>
+    <string name="details_enter">Enter credential to continue</string>
+    <string name="name">USERNAME</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+</resources>
